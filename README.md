@@ -1,1 +1,2 @@
-# data-machine-learning
+# unsupervised: projet uber
+# supervsied: conversion rate
