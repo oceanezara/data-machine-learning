@@ -1,3 +1,4 @@
+email: oceanezara@yahoo.fr
 
 # supervised: conversion rate
 ### Attention, j'ai fait tourner dans colab donc il faudra adatper le path pour le dataset
